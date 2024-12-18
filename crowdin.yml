@@ -1,0 +1,4 @@
+files:
+  - source: /README.md
+    translation: /README.md
+    multilingual: 1
